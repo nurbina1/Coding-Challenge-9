@@ -1,6 +1,6 @@
 # Coding-Challenge-9
 
-run command is node library_management.js
+Run command is node library_management.js
 
 This project is a simple Library Management System. It allows users to manage books, sections, and patrons, including borrowing and returning books. The system also supports VIP patrons who have priority borrowing privileges.
 
